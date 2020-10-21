@@ -4,7 +4,7 @@
 **nOctaveLay/nOctaveLay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on project DeepLearning(https://github.com/nOctaveLay/DeepLearning)
+- 🔭 I’m currently working on project [DeepLearning](https://github.com/nOctaveLay/DeepLearning)
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with GUI
