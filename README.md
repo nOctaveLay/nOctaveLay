@@ -10,6 +10,7 @@
 - 🤔 I’m looking for help with GUI
 - 💬 Ask me about anything
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/wjddkdml1124)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nOctaveLay&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nOctaveLay&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=nOctaveLay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
