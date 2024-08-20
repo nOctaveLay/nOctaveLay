@@ -13,11 +13,12 @@
 ### 백준 알고리즘
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wjddkdml1124)](https://solved.ac/wjddkdml1124)
 
-### Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nOctaveLay&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+### Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=nOctaveLay&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nOctaveLay&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=nOctaveLay&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+### Github Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nOctaveLay&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
