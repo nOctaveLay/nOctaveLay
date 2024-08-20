@@ -18,4 +18,6 @@
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nOctaveLay&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=nOctaveLay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=nOctaveLay)](https://github.com/ryo-ma/github-profile-trophy)
