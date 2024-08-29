@@ -8,6 +8,4 @@
   
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wjddkdml1124)
 
-- - - 
-  
 ![](./profile-3d-contrib/profile-green-animate.svg)
