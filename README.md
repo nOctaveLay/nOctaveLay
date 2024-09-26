@@ -1,14 +1,12 @@
-# nOctaveLay
+### nOctaveLay 
 
-  <div align=right>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnOctaveLay)](https://hits.seeyoufarm.com) 
-	
-  </div>
+![](https://komarev.com/ghpvc/?username=nOctaveLay&color=green)
 
-> 평범한 AI 개발자입니다.
-> 밑은 지금까지 개발한 내용을 보여주고 있습니다.
+### Career
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wjddkdml1124)
+### Interest
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+### Side Project & Hobby
+- Backjoon Algorithm stat
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjddkdml1124)](https://solved.ac/wjddkdml1124)
