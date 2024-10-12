@@ -3,8 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=nOctaveLay&color=green)
 
 ### Career
+-
 
 ### Interest
+- AI
 
 ### Side Project & Hobby
 - Backjoon Algorithm stat
