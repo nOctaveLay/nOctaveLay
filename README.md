@@ -3,8 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=nOctaveLay&color=green)
 
 ### Career
--
-.
+- 
+- 
+
 ### Interest
 - AI
 
