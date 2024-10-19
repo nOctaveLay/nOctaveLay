@@ -7,7 +7,8 @@
 - 
 
 ### Interest
-- AI
+- AI(Generative AI)
+- Spring Boots
 
 ### Side Project & Hobby
 - Backjoon Algorithm stat
