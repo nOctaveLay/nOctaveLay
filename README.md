@@ -7,7 +7,7 @@
 - 
 
 ### Interest
-- AI(Generative AI)
+- AI(Generative AI,od)
 - Spring Boots
 
 ### Side Project & Hobby
